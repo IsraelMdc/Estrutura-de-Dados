@@ -1,3 +1,6 @@
 {
-    "C_Cpp.default.compilerPath": "n:\\Estrutura de Dados\\Estrutura-de-Dados\\JokenPo.c"
+    "C_Cpp.default.compilerPath": "n:\\Estrutura de Dados\\Estrutura-de-Dados\\JokenPo.c",
+    "files.associations": {
+        "stdlib.h": "c"
+    }
 }
