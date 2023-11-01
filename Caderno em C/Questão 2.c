@@ -1,11 +1,11 @@
 
-//Questão 2
-//2.O mesmo que o exercício anterior, porém convertendo de Celsius para Farenheit.
+//Questï¿½o 2
+//2.O mesmo que o exercï¿½cio anterior, porï¿½m convertendo de Celsius para Farenheit.
 
 
 //Declaracao de variaveis
 #include <stdio.h>
-#include <conio.h>
+
 
 //Declaracao de variaveis
 int temp_f;
@@ -21,7 +21,7 @@ int main()
 	printf("Temperatura em Celsius %d \n",temp_c);
 	
 	//Processamento dos dados
-	//conversão da temperatura para Farenheit
+	//conversï¿½o da temperatura para Farenheit
 	temp_f = (temp_c * 9/5) + 32;
 	
 	//Escrita da temperatura em Celsius na tela
